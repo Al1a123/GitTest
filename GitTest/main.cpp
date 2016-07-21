@@ -4,7 +4,10 @@ using namespace std;
 
 int main()
 {
-	cout << "Meow" << endl;
+	int a = 2;
+	int b = 3;
+	int c = a + b;
+	cout << c << endl;
 
 	system("PAUSE");
 	return 0;
